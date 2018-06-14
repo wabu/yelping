@@ -1,0 +1,4 @@
+*.sw?
+data/dataset
+data/yelp_dataset.tar.gz
+target
